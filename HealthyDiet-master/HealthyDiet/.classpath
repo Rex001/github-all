@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="E:/github-all/appcompat_v7_2/bin/appcompat_v7_2.jar"/>
+	<classpathentry kind="src" path="/21"/>
+	<classpathentry kind="lib" path="E:/android_SDK_4.4 All/sdk/platforms/android-14/android.jar" sourcepath="E:/android_SDK_4.4 All/sdk/sources/android-14">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/android_SDK_4.4 All/sdk/docs/reference"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="nonaccessible" pattern="com/android/internal/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
